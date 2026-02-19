@@ -1,0 +1,22 @@
+<html>
+<style>
+  body{
+      background-color:lightgreen;
+      background-image:url("");
+      background-size:100%;
+      background-repeat:no-repeat;
+      }  
+    div{
+        background-color:lightpink;
+        width:80%;
+        height:80px;
+        color:white;
+        margin-left:10%;
+    }
+    </style>
+    <body>
+        <div>
+            <h1>gato fofo</h1>
+        </div>
+    </body>
+</html>
