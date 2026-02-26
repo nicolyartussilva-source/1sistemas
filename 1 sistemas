@@ -1,9 +1,9 @@
 <html>
 <style>
   body{
-      background-color:lightgreen;
-      background-image:url("");
-      background-size:100%;
+      background-color:black;
+      background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-abstract-light-pink-and-purple-background-image_15685363.jpg");
+      background-size:137%;
       background-repeat:no-repeat;
       }  
     div{
@@ -13,10 +13,25 @@
         color:white;
         margin-left:10%;
     }
+    #azul{
+        background-color:lightblue;
+    }
+    #branco{
+        background-color:white;
+    }
+    #vermelho{
+        background-color:purple;
+    }
+    
+    }
     </style>
     <body>
         <div>
             <h1>gato fofo</h1>
         </div>
-    </body>
-</html>
+        <div id ="azul"></div><html>
+        <div id ="branco"></div><html>
+        <div id ="vermelho"></div><html>
+            </body>    
+<style>
+  
