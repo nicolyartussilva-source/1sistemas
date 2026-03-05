@@ -1,37 +1,53 @@
 <html>
-<style>
+    <style>
   body{
       background-color:black;
-      background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20240522/pngtree-abstract-light-pink-and-purple-background-image_15685363.jpg");
+      background-image:url("");
       background-size:137%;
       background-repeat:no-repeat;
       }  
     div{
-        background-color:lightpink;
-        width:80%;
-        height:80px;
+        background-color:black;
+        width:50%;
         color:white;
-        margin-left:10%;
+        margin-left:0%;
     }
     #azul{
-        background-color:lightblue;
+        background-color:green;
+        width:50%;
+        height:80%;
     }
     #branco{
-        background-color:white;
+        background-color:white;]
+        width:80%;
+        height:80%;
+        background-image:url("https://s5.static.brasilescola.uol.com.br/be/2022/10/escudo-bandeira-mexico.jpg");
+        background-size:150px;
+        background-position:center;
+        background-repeat:no-repeat;
     }
-    #vermelho{
-        background-color:purple;
+    #vermelho:hover{
+        background-color:red;
+        width:50%;
+        height:80%;
     }
-    
+    section{
+       background-color:;
+       width:500px;
+       height:300px;
+       display:flex;
     }
     </style>
     <body>
         <div>
             <h1>gato fofo</h1>
         </div>
-        <div id ="azul"></div><html>
-        <div id ="branco"></div><html>
-        <div id ="vermelho"></div><html>
-            </body>    
-<style>
+        <section>
+        <div id ="azul"></div>
+        <div id ="branco"></div>
+        <div id ="vermelho"></div>
+       </section>
+    </body> 
+</html>
+
   
